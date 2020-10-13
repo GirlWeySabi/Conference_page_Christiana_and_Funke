@@ -1,0 +1,104 @@
+h1,
+h2,
+h3,
+h4 {
+    color: #648880
+}
+
+.header {
+  background-color: #293F50;
+  padding: 1em;
+}
+
+.headers {
+    display: flex;
+    justify-content: center;
+}
+
+.logoHead {
+  flex-basis: 20%;
+  color: whitesmoke;
+  font-weight: 400;
+  font-size: 3em;
+  margin-right: 4em;
+  line-height: 0.9em;
+}
+
+.navList1 {
+  list-style-type: none;
+  text-align: right;
+}
+
+.date {
+  text-align: right;
+  margin: 2em 0 0.8em 0;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.navLink {
+  font-size: 0.8em;
+  font-weight: 400;
+  color: whitesmoke;
+  margin-left: 2em;
+}
+
+.greenReg {
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+  text-align: center;
+  padding: 3em 0 1.5em 0;
+}
+
+.Reg {
+  font-size: 2em;
+  font-weight: 500;
+}
+
+.regPara {
+  font-size:  1.2em;
+  line-height: 1.7em;
+  margin: 0.8em 10em 0.8em 10em;
+  color: #888;
+}
+
+.row-1 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fff;
+    padding: 3em 0 3em 0;
+}
+
+.chic {
+    padding: 0.7em 0 0.5em 0;
+    font-weight: 200;
+}
+
+.map {
+    width: 30em;
+    height: 15em;
+}
+
+.address1 {
+    padding: 0 0 2em 0;
+    line-height: 1.2em;
+    color: #888;
+}
+
+.address2 {
+    line-height: 1.2em;
+}
+
+.link1 {
+    text-decoration: underline;
+    color: #648880;
+    
+}
+
+.contact1 {
+    color: #888;
+}
+
+.try {
+    display: flex;
+    flex-direction: column;
+}
