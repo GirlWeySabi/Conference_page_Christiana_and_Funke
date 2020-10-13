@@ -1,0 +1,160 @@
+h1,
+h2,
+h3,
+h4 {
+    color: #648880
+}
+
+.header {
+  background-color: #293F50;
+  padding: 1em;
+}
+
+.headers {
+    display: flex;
+    justify-content: center;
+}
+
+.logoHead {
+  flex-basis: 20%;
+  color: whitesmoke;
+  font-weight: 400;
+  font-size: 3em;
+  margin-right: 4em;
+  line-height: 0.9em;
+}
+
+.navList1 {
+  list-style-type: none;
+  text-align: right;
+}
+
+.date {
+  text-align: right;
+  margin: 2em 0 0.8em 0;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.navLink {
+  font-size: 0.8em;
+  font-weight: 400;
+  color: whitesmoke;
+  margin-left: 2em;
+}
+
+.greenReg {
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+  text-align: center;
+  padding: 3em 0 1.5em 0;
+}
+
+.Reg {
+  font-size: 2em;
+  font-weight: 500;
+}
+
+.regPara {
+  font-size:  1.2em;
+  line-height: 1.7em;
+  margin: 0.8em 10em 0.8em 10em;
+  color: #888;
+}
+
+.main .purchaseHead {
+  display: flex;
+  padding: 4em 10em 3em 10em;
+}
+
+.purchase {
+  flex: 1;
+}
+
+.inputBox {
+  flex: 1;
+}
+
+.input {
+  display: block;
+}
+
+.purchase-1 {
+  font-weight: 400;
+}
+
+.purchaseCost {
+  margin: 1em 0 2em 0;
+  color: #a9b2b9;
+  font-size: 0.9em;
+  font-weight: 400;
+}
+
+.purchasePara {
+  color: #888;
+  font-weight: 400;
+  font-size: 0.9em;
+  margin-bottom: 1em;
+  line-height: 1.5em;
+  margin-right: 5em;
+}
+
+.purchaseY {
+  margin-bottom: 1em;
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
+.purchaseList-1 {
+  list-style-type: square;
+  color: #888;
+  font-size: 0.9em;
+  line-height: 1.5em;
+  margin-left: 1.5em;
+}
+
+.formBox {
+  color: #888;
+  margin-left: 10em;
+  display: grid;
+
+}
+
+.input {
+  margin-bottom: 3em;
+  padding: 0.5em;
+  width: 17em;
+  border-radius: 0.4em;
+  border: 1px solid #c6c9cc;
+  color: #888;
+
+}
+
+.inputNum {
+  margin-bottom: 3em;
+  padding: 0.5em;
+  width: 4em;
+  border-radius: 0.4em;
+  border: 1px solid #c6c9cc;
+  color: #888;
+}
+
+.inputs {
+  margin-bottom: 3em;
+  padding: 0.5em;
+  width: 17em;
+  height: 6em;
+  border-radius: 0.4em;
+  border: 1px solid #c6c9cc;
+  color: #888;
+}
+
+.button {
+  background: #648880;
+  padding: 1em;
+  width: 9em;
+  text-align: center;
+  color: whitesmoke;
+  border-radius: 0.4em;
+  letter-spacing: 0.1em;
+}
+
