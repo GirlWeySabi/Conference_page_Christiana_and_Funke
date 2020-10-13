@@ -13,6 +13,7 @@ h4 {
 .headers {
     display: flex;
     justify-content: center;
+    padding: 2em;
 }
 
 .logoHead {
@@ -22,6 +23,7 @@ h4 {
   font-size: 3em;
   margin-right: 4em;
   line-height: 0.9em;
+  width: 10%;
 }
 
 .navList1 {
