@@ -57,10 +57,17 @@ h4 {
 }
 
 .regPara {
-  font-size:  1.2em;
+  font-size:  1.4em;
   line-height: 1.7em;
-  margin: 0.8em 10em 0.8em 10em;
+  /* margin: 0.8em 10em 0.8em 10em; */
+  margin: 0 auto;
+  width: 60%;
   color: #888;
+}
+
+.try {
+  display: flex;
+  flex-direction: column;
 }
 
 .row-1 {
@@ -100,10 +107,7 @@ h4 {
     color: #888;
 }
 
-.try {
-    display: flex;
-    flex-direction: column;
-}
+
 
 .footer {
     background-color: #293F50;

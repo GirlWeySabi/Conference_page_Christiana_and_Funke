@@ -57,27 +57,44 @@ h4 {
 }
 
 .regPara {
-  font-size:  1.2em;
+  font-size:  1.4em;
   line-height: 1.7em;
-  margin: 0.8em 10em 0.8em 10em;
+  /* margin: 0.8em 10em 0.8em 10em; */
+  margin: 0 auto;
   color: #888;
+  width: 60%;
 }
 
 .main .purchaseHead {
   display: flex;
   padding: 4em 10em 3em 10em;
+  justify-content: space-evenly;
+  width: 80%;
+  margin: 0 auto;
 }
 
-.purchase {
+/* .purchase {
   flex: 1;
 }
 
 .inputBox {
   flex: 1;
-}
+} */
 
 .input {
   display: block;
+  margin-bottom: 3em;
+  padding: 0.5em;
+  width: 17em;
+  border-radius: 0.4em;
+  border: 1px solid #c6c9cc;
+  color: #888;
+
+}
+
+.inputLabel {
+  font-weight: 400;
+  font-size: 1.05em;
 }
 
 .purchase-1 {
@@ -94,41 +111,29 @@ h4 {
 .purchasePara {
   color: #888;
   font-weight: 400;
-  font-size: 0.9em;
+  font-size: 1.05em;
   margin-bottom: 1em;
   line-height: 1.5em;
-  margin-right: 5em;
-  width: 120%;
+  width: 85%;
 }
 
 .purchaseY {
   margin-bottom: 1em;
   font-size: 1.2em;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .purchaseList-1 {
   list-style-type: square;
   color: #888;
-  font-size: 0.9em;
+  font-size: 1.05em;
   line-height: 1.5em;
   margin-left: 1.5em;
 }
 
 .formBox {
   color: #888;
-  margin-left: 10em;
   display: grid;
-
-}
-
-.input {
-  margin-bottom: 3em;
-  padding: 0.5em;
-  width: 17em;
-  border-radius: 0.4em;
-  border: 1px solid #c6c9cc;
-  color: #888;
 
 }
 
