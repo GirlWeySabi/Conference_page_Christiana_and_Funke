@@ -2,75 +2,75 @@ h1,
 h2,
 h3,
 h4 {
-    color: #648880
+	color: #648880;
 }
 
 .header {
-  background-color: #293F50;
-  padding: 1em;
+	background-color: #293f50;
+	padding: 1em;
 }
 
 .headers {
-    display: flex;
-    justify-content: center;
-    padding: 2em;
+	display: flex;
+	justify-content: center;
+	padding: 2em;
 }
 
 .logoHead {
-  flex-basis: 20%;
-  color: whitesmoke;
-  font-weight: 400;
-  font-size: 3em;
-  margin-right: 4em;
-  line-height: 0.9em;
-  width: 10%;
+	flex-basis: 20%;
+	color: whitesmoke;
+	font-weight: 400;
+	font-size: 3em;
+	margin-right: 4em;
+	line-height: 0.9em;
+	width: 10%;
 }
 
 .navList1 {
-  list-style-type: none;
-  text-align: right;
+	list-style-type: none;
+	text-align: right;
 }
 
 .date {
-  text-align: right;
-  margin: 2em 0 0.8em 0;
-  font-size: 1em;
-  font-weight: 400;
+	text-align: right;
+	margin: 2em 0 0.8em 0;
+	font-size: 1em;
+	font-weight: 400;
 }
 
 .navLink {
-  font-size: 0.8em;
-  font-weight: 400;
-  color: whitesmoke;
-  margin-left: 2em;
+	font-size: 0.8em;
+	font-weight: 400;
+	color: whitesmoke;
+	margin-left: 2em;
 }
 
 .greenReg {
-  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
-  text-align: center;
-  padding: 3em 0 1.5em 0;
+	background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+	text-align: center;
+	padding: 3em 0 1.5em 0;
 }
 
 .Reg {
-  font-size: 2em;
-  font-weight: 500;
+	font-size: 2em;
+	font-weight: 500;
 }
 
 .regPara {
-  font-size:  1.4em;
-  line-height: 1.7em;
-  /* margin: 0.8em 10em 0.8em 10em; */
-  margin: 0 auto;
-  color: #888;
-  width: 60%;
+	font-size: 1.4em;
+	line-height: 1.7em;
+	/* margin: 0.8em 10em 0.8em 10em; */
+	margin: 0 auto;
+	color: #888;
+	width: 60%;
 }
 
 .main .purchaseHead {
-  display: flex;
-  padding: 4em 10em 3em 10em;
-  justify-content: space-evenly;
-  width: 80%;
-  margin: 0 auto;
+	display: flex;
+	padding: 4em 10em 3em 10em;
+	justify-content: space-evenly;
+	width: 80%;
+	margin: 0 auto;
 }
 
 /* .purchase {
@@ -82,118 +82,114 @@ h4 {
 } */
 
 .input {
-  display: block;
-  margin-bottom: 3em;
-  padding: 0.5em;
-  width: 17em;
-  border-radius: 0.4em;
-  border: 1px solid #c6c9cc;
-  color: #888;
-
+	display: block;
+	margin-bottom: 3em;
+	padding: 0.5em;
+	width: 17em;
+	border-radius: 0.4em;
+	border: 1px solid #c6c9cc;
+	color: #888;
 }
 
 .inputLabel {
-  font-weight: 400;
-  font-size: 1.05em;
+	font-weight: 400;
+	font-size: 1.05em;
 }
 
 .purchase-1 {
-  font-weight: 400;
+	font-weight: 400;
 }
 
 .purchaseCost {
-  margin: 1em 0 2em 0;
-  color: #a9b2b9;
-  font-size: 0.9em;
-  font-weight: 400;
+	margin: 1em 0 2em 0;
+	color: #a9b2b9;
+	font-size: 0.9em;
+	font-weight: 400;
 }
 
 .purchasePara {
-  color: #888;
-  font-weight: 400;
-  font-size: 1.05em;
-  margin-bottom: 1em;
-  line-height: 1.5em;
-  width: 85%;
+	color: #888;
+	font-weight: 400;
+	font-size: 1.05em;
+	margin-bottom: 1em;
+	line-height: 1.5em;
+	width: 85%;
 }
 
 .purchaseY {
-  margin-bottom: 1em;
-  font-size: 1.2em;
-  font-weight: 400;
+	margin-bottom: 1em;
+	font-size: 1.2em;
+	font-weight: 400;
 }
 
 .purchaseList-1 {
-  list-style-type: square;
-  color: #888;
-  font-size: 1.05em;
-  line-height: 1.5em;
-  margin-left: 1.5em;
+	list-style-type: square;
+	color: #888;
+	font-size: 1.05em;
+	line-height: 1.5em;
+	margin-left: 1.5em;
 }
 
 .formBox {
-  color: #888;
-  display: grid;
-
+	color: #888;
+	display: grid;
 }
 
 .inputNum {
-  margin-bottom: 3em;
-  padding: 0.5em;
-  width: 4em;
-  border-radius: 0.4em;
-  border: 1px solid #c6c9cc;
-  color: #888;
+	margin-bottom: 3em;
+	padding: 0.5em;
+	width: 4em;
+	border-radius: 0.4em;
+	border: 1px solid #c6c9cc;
+	color: #888;
 }
 
 .inputs {
-  margin-bottom: 3em;
-  padding: 0.5em;
-  width: 17em;
-  height: 6em;
-  border-radius: 0.4em;
-  border: 1px solid #c6c9cc;
-  color: #888;
+	margin-bottom: 3em;
+	padding: 0.5em;
+	width: 17em;
+	height: 6em;
+	border-radius: 0.4em;
+	border: 1px solid #c6c9cc;
+	color: #888;
 }
 
 .button {
-  background: #648880;
-  padding: 1em;
-  width: 9em;
-  text-align: center;
-  color: whitesmoke;
-  border-radius: 0.4em;
-  letter-spacing: 0.1em;
+	background: #648880;
+	padding: 1em;
+	width: 9em;
+	text-align: center;
+	color: whitesmoke;
+	border-radius: 0.4em;
+	letter-spacing: 0.1em;
 }
 
 .button:hover {
-  background: #26b394;
-  color: white;
+	background: #26b394;
+	color: white;
 }
 
 .footer {
-    background-color: #293F50;
-    display: flex;
-    justify-content: space-evenly;
-    padding: 3em;
-    font-size: 0.9em;
-  }
-  
-  .footer .copy {
-    font-weight: 300;
-  }
-  
-  .footerNav {
-    display: flex;
-  }
-  
-  .footerNav-Wrapper{
-    margin-left: 2.0em;
-  }
-  
-  .footerNav-Wrapper a {
-    color: #fff;
-    font-weight: 300;
-  }
-  
-  
+	background-color: #293f50;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 3em;
+	font-size: 0.9em;
+}
+
+.footer .copy {
+	font-weight: 300;
+}
+
+.footerNav {
+	display: flex;
+}
+
+.footerNav-Wrapper {
+	margin-left: 2em;
+}
+
+.footerNav-Wrapper a {
+	color: #fff;
+	font-weight: 300;
+}
