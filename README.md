@@ -1,23 +1,23 @@
-## Conference_page_Christiana_and_Funke
+# Conference_page_Christiana_and_Funke
 
-# Description
+## Description
 This conference page was designed collaboratively.
 
-# Live Demo
+## Live Demo
 [See project live here] (https://raw.githack.com/GirlWeySabi/Conference_page_Christiana_and_Funke/home/index.html)
 
-# Dependencies
+## Dependencies
 ###### Text Editor used: VScode
 
-# Languages
+## Languages
 * HTML
 * CSS
 * Javascript
 
-# Visuals
+## Visuals
 ![Display _of_Home_Page](/ConferencePage.PNG "Display _of_Home_Page")
 
-# Author 
+## Author 
 ### Christiana Okere A.K.A. _GirlWeySabi_ & Olufunke Owoseni
 
 ###### LinkedIn: https://bit.ly/Christiana_Okere_
@@ -29,7 +29,7 @@ This conference page was designed collaboratively.
 ###### GitHub: https://github.com/GirlWeySabi
 ###### https://github.com/olufunke1011
 
-# Acknowledgement
+## Acknowledgement
 * GitHub: @Chiomy @Gnwin
 * Twitter: @hub_mic
 
