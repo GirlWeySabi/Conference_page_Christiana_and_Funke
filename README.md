@@ -1,4 +1,4 @@
-# Conference_page_Christiana_and_Funke
+## Conference_page_Christiana_and_Funke
 
 # Description
 This conference page was designed collaboratively.
