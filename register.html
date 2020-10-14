@@ -57,18 +57,21 @@
       <form action="" class="formBox">
         
         <label for="Name" class="inputLabel"> Name  </label>
-        <input type="text" class="input" placeholder="Full name">
+        <input type="text" class="input" placeholder="Full name" id="yourName">
        
         <label for="Email" class="inputLabel"> Email </label>
-        <input type="email" class="input" placeholder="Email address">
+        <input type="email" class="input" placeholder="Email address" id="yourEmail">
           
         <label for="NOP" class="inputLabel"> Number of Passes</label>
-        <input type="number" class="inputNum" placeholder="1">
+        <input type="number" class="inputNum" placeholder="1" id="noPasses">
           
         <label for="Comments" class="inputLabel">Comments</label>
-        <input type="text" class="inputs">
+        <input type="text" class="inputs" id="comment">
              
-        <a class="button" href="#">PURCHASE</a>
+        <button class="button"  type="submit" onclick="purchase()">
+          PURCHASE
+        </button>
+       
       </form>
     </div>
 
@@ -89,6 +92,6 @@
         </nav>
   
       </footer>
-    
+    <script src="./assets/javascripts/register.js"></script>
 </body>
 </html>

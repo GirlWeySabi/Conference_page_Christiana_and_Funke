@@ -161,6 +161,11 @@ h4 {
   letter-spacing: 0.1em;
 }
 
+.button:hover {
+  background: #26b394;
+  color: white;
+}
+
 .footer {
     background-color: #293F50;
     display: flex;
