@@ -20,7 +20,7 @@ This conference page was designed collaboratively.
 
 ## Visuals
 
-![Display _of_Home_Page](/assets/images/ConferencePage.PNG"Display \_of_Home_Page")
+![Display _of_Home_Page](/assets/images/ConferencePage.PNG "Display_of_Home_Page")
 
 ## Author
 
